@@ -12,7 +12,9 @@ function Cards() {
             className="w-20 mx-auto mt-[-3rem] bg-white"
             alt="/"
           />
-          <h2 className="text-2xl font-bold text-center py-8">Single User</h2>
+          <h2 className="text-2xl font-bold text-center py-8">
+            Single/multi User
+          </h2>
           <p className="text-4xl text-center font-bold"> $159</p>
           <div className="text-center font-medium">
             <p className="py-1 border-b mx-5 mt-8">500 GB Storage</p>
